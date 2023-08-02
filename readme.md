@@ -1,3 +1,3 @@
 ## Readme before anything else
 
-*This is about this*
+*This is about this and that*
